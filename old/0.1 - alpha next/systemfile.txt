@@ -1,0 +1,2 @@
+osname_____Dodam OS
+osversion__0.1

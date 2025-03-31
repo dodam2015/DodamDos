@@ -1,0 +1,5 @@
+osname_____Dodam OS
+osversion__0.8
+name_______rn
+sys_yes____yes
+sys_no_____no

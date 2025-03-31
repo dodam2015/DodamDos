@@ -1,0 +1,3 @@
+osname_____Dodam OS
+osversion__0.5
+name_______print('help')
